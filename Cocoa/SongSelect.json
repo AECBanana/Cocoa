@@ -1,0 +1,28 @@
+{
+  "Version": 1,
+  "DrawableInfo": {
+    "global": [
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1208.0.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 96.06448,
+          "y": 170.36566
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.24701406,
+          "y": 0.24701406
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 36,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "sprite_name": "Lazer/023.png"
+        },
+        "Children": []
+      }
+    ]
+  }
+}
