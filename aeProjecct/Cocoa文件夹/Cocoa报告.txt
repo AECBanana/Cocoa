@@ -1,0 +1,27 @@
+创建的报告: 
+	2025/4/8	22:49:47
+
+项目名: Cocoa.aep
+
+将源文件收集到: 
+	C:\Users\AeCw\Documents\Project\osuSkin\aeProjecct\Cocoa文件夹
+
+收集的源文件: 全部
+
+收集的合成: 
+	sliderb
+	基础圈
+	followpoint
+	
+收集的文件数: 3
+
+收集的文件大小: 5 KB
+
+收集的源文件: 
+	C:\Users\AeCw\Downloads\圆形 25.png
+	C:\Users\AeCw\Downloads\矩形 138 (1).png
+	C:\Users\AeCw\Downloads\矩形 138.png
+	
+渲染增效工具:
+	经典 3D
+	
